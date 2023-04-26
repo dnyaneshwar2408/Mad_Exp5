@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452643361610",
+    "project_id": "mad-pwa-exp05",
+    "storage_bucket": "mad-pwa-exp05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452643361610:android:4bf7d4909a17032d4727b3",
+        "android_client_info": {
+          "package_name": "com.example.mad_pwa_exp05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452643361610-oj0voqsf2gr43t3cmaqbv8c6sdmddef0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dRFhdJelDeEJotExY_8-H-A3wp6OHa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452643361610-oj0voqsf2gr43t3cmaqbv8c6sdmddef0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
